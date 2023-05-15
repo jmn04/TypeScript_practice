@@ -1,0 +1,1 @@
+# TypaScript練習用
